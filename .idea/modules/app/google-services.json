@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385313171664",
+    "project_id": "loginapicrud",
+    "storage_bucket": "loginapicrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385313171664:android:318b16a5029e675a0a16d5",
+        "android_client_info": {
+          "package_name": "com.example.login_api_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385313171664-j34jp9sj9nanabdgs33g62srb28mgdcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_api_crud",
+            "certificate_hash": "ca6e728a04213fb10b0b01e7f86ff5e09302abc2"
+          }
+        },
+        {
+          "client_id": "385313171664-7rmdst787tsron430498k7obs27j8l0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5nLDoccvLwgCbNw5BhfQaDi0H0BWBXJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385313171664-7rmdst787tsron430498k7obs27j8l0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
